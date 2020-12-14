@@ -2,3 +2,5 @@ github_gh
 _book
 node_modules
 styles
+.gitignore
+robots.txt
