@@ -1,5 +1,5 @@
 {
-    "name": "Landsu",
+    "name": "Landyesu",
     "version": "0.0.0",
     "description": "Yesura",
     "main": "./index.js",
@@ -10,7 +10,7 @@
 
     "root": "./content",
     "output": "./docs",
-    "title": "Landsu",
+    "title": "Landyesu",
     "plugins": [
       "-lunr", "-search", "search-pro",
       "fontsettings", 
