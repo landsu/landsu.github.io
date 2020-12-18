@@ -44,7 +44,7 @@
 
 **机构**
 
-> [台湾福音书房](https://www.twgbr.org.tw/) | [水流职事站](https://www.lsmchinese.org/)  | [Living Stream Ministry](https://www.lsm.org/) | [香港真理书房](https://www.hktbr.org/) | [Amana Literature](https://www.amanaliterature.in/) | [Amana Trust Books](https://amanatrust.org.uk/page/home) | [雷玛书报](https://www.rhemabooks.org/sc/home/) | [日本福音书房](http://www.jgbr.com/)
+> [台湾福音书房](https://www.twgbr.org.tw/) | [水流职事站](https://www.lsmchinese.org/)  | [Living Stream Ministry](https://www.lsm.org/) | [香港真理书房](https://www.hktbr.org/) | [Amana Literature](https://www.amanaliterature.in/) | [Amana Trust Books](https://amanatrust.org.uk/page/home) | [雷玛书报](https://www.rhemabooks.org/sc/home/) | [日本福音书房](http://www.jgbr.com/) | [基督教经典翻译社](https://www.cctf.org/)
 >
 > [台湾中部相调中心](http://ctbc.recovery.org.tw/) | [主的恢复展览馆](https://docs.google.com/forms/d/e/1FAIpQLSdKvMbV8enMyjbFFOaEMPkQZ3sNu2nE79urnXIqQnkYy9r3lg/viewform?c=0&w=1) | [台湾壮年班](http://mtt.recovery.org.tw/) | [全台众召会通讯录](https://docs.google.com/spreadsheets/d/11UgW35mjTh70--wY8v11QY4CNkJjI8V4MLW-ghwFDL0/edit#gid=0) | [得荣基金会 · 生命教育](https://www.glory.org.tw/)
 
