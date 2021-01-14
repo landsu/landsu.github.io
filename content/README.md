@@ -2,7 +2,7 @@
 
 **综合**
 
-> [神子民的供应](https://heavenlyfood.cn/) |[书报合辑](https://bibletruth.cn) | [Ministry Books](https://www.ministrybooks.org/alphabetical.cfm?all) | [在线阅读](http://reading.zhudehuifu.com/?wecha_id=) | [书报合辑 2](http://mandel.synology.me/%E6%9B%B8%E5%A0%B1%E5%90%88%E8%BC%AF/gracefinder.com/folder/books/index-2.html) | [圣城之光](http://www.christiansquare.org/)
+> [神子民的供应](https://heavenlyfood.cn/) | [BibleTruth](http://bibletruth01.oss-cn-hangzhou.aliyuncs.com/index.html) | [Ministry Books](https://www.ministrybooks.org/alphabetical.cfm?all) | [在线阅读](http://reading.zhudehuifu.com/?wecha_id=) | [书报合辑 2](http://mandel.synology.me/%E6%9B%B8%E5%A0%B1%E5%90%88%E8%BC%AF/gracefinder.com/folder/books/index-2.html) | [圣城之光](http://www.christiansquare.org/)
 
 **福音/喂养**
 
